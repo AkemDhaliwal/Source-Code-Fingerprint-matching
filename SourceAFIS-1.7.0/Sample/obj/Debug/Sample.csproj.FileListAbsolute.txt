@@ -1,0 +1,8 @@
+C:\Users\akem\Documents\Semester 8\Capstone\SourceAFIS-1.7.0\Sample\bin\Debug\Sample.exe.config
+C:\Users\akem\Documents\Semester 8\Capstone\SourceAFIS-1.7.0\Sample\bin\Debug\Sample.exe
+C:\Users\akem\Documents\Semester 8\Capstone\SourceAFIS-1.7.0\Sample\bin\Debug\Sample.pdb
+C:\Users\akem\Documents\Semester 8\Capstone\SourceAFIS-1.7.0\Sample\bin\Debug\SourceAFIS.dll
+C:\Users\akem\Documents\Semester 8\Capstone\SourceAFIS-1.7.0\Sample\bin\Debug\SourceAFIS.xml
+C:\Users\akem\Documents\Semester 8\Capstone\SourceAFIS-1.7.0\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\akem\Documents\Semester 8\Capstone\SourceAFIS-1.7.0\Sample\obj\Debug\Sample.exe
+C:\Users\akem\Documents\Semester 8\Capstone\SourceAFIS-1.7.0\Sample\obj\Debug\Sample.pdb
